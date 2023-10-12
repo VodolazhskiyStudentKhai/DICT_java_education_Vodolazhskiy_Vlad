@@ -51,7 +51,6 @@ public class ChatBot
 
     private void getTest() {
         System.out.println("What was the name originally given to the new programming language, which later became known as 'Java'?\n1. Snake\n2. Tree\n3. Java\n4. Oak \nUse answer option number.");
-
         String answer;
         boolean ex = false;
 
