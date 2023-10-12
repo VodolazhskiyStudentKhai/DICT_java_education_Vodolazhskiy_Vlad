@@ -58,7 +58,7 @@ public class ChatBot
             answer = (scan.nextLine()).trim();
 
             if(answer.equals("4")) {
-                System.out.println("It was Oak, right!\nGoodbye, have a nice day!");
+                System.out.println("It was Oak, right! \nGoodbye, have a nice day!");
                 ex = true;
             }
             else if(!answer.isEmpty()) {
